@@ -1,6 +1,6 @@
 # software_architecture_task1
 
-In order to launch services you should run following commands in the root directory of the project:
+In order to launch services you should run following commands in the root directory of the project in different terminals:
 ```bash
 python3 -m facade_service.main
 python3 -m messages_service.main
