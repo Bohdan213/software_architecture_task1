@@ -1,5 +1,12 @@
 # software_architecture_task1
 
+In order to launch services you should run following commands in the root directory of the project:
+```bash
+python3 -m facade_service.main
+python3 -m messages_service.main
+python3 -m logging_service.main
+```
+
 POST requests 1 for facade service:<br>
 ![img.png](readme_images/img.png)
 
